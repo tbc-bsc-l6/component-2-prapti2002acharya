@@ -1,66 +1,49 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# Hotel-Management-Web-Application
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+# Functional Requirements 
 
-## About Laravel
+User Registration and Login:<br>
+• Users should be able to register with valid credentials.<br>
+• Users should be able to log in using their credentials.<br><br>
+Room Availability Checking:<br>
+• Users should be able to view available rooms for specified dates.<br><br>
+Room Booking:<br>
+• Users should be able to select available rooms, enter the user details, enter 
+check in, check out date and proceed with the booking.<br> 
+• Users should receive booking confirmation via email. <br><br>
+New Offers Display:<br>
+• Display new offers and promotions on the website.<br><br>
+Send Inquiry to Admin:<br>
+• Users should be able to send inquiries to the admin regarding room availability, 
+pricing, etc.<br><br>
+User Review:<br>
+• Users should have the ability to add reviews for rooms they have booked or 
+stayed in to share their experiences and provide feedback to other potential 
+guests. <br><br>
+Admin Dashboard:<br>
+• Admins should be able to add, edit, and delete rooms.<br> 
+• Admins should be able to manage user bookings. <br>
+• Admins should be able to respond to customer inquiries via email.<br> 
+• Admin should be able to view an overview of the hotel room inventory, 
+including the total number of rooms, available rooms, booked rooms, and 
+number of users.<br><br>
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
-
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
-
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
-
-## Learning Laravel
-
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+# Screenshots<br><br>
+# User Page<br><br>
+![Screenshot (327)](https://github.com/user-attachments/assets/a1e8a7d6-9084-4401-879a-925bb5bdb0a2)<br>
+![Screenshot (331)](https://github.com/user-attachments/assets/be62a0fa-a205-4870-af66-afdff73f2ca1)<br>
+![Screenshot (332)](https://github.com/user-attachments/assets/e2f1184b-21e9-4b57-b0c8-c02443071db2)<br>
+![Screenshot (333)](https://github.com/user-attachments/assets/8d21de11-0875-430d-b2cf-4082dea24fde)<br>
+![Screenshot (334)](https://github.com/user-attachments/assets/239f7e4c-5dcf-4c15-a7fe-e99891802a27)<br>
+![Screenshot (335)](https://github.com/user-attachments/assets/1405b841-c86b-477c-a8c4-b1215b7e95bd)<br>
+![Screenshot (336)](https://github.com/user-attachments/assets/28d951b1-3aa7-4a3b-aff8-3f45a90ea252)<br>
+![Screenshot (337)](https://github.com/user-attachments/assets/85abc3d2-9f51-4ed9-b0ec-3c5eb2e88f27)<br>
+![Screenshot (338)](https://github.com/user-attachments/assets/fc6ef1af-116f-4d1f-90c7-cf14aa8a7848)<br>
+![Screenshot (339)](https://github.com/user-attachments/assets/add09ae2-c8ec-431e-9ef1-7d02bbae8126)<br>
+![Screenshot (340)](https://github.com/user-attachments/assets/a0d3aef5-1e73-45b1-b082-0455473f7de3)<br><br><br>
+# Admin Page<br><br>
+![Screenshot (341)](https://github.com/user-attachments/assets/7fcf8ace-60d2-4fe1-8a54-f6094928e8a6)<br>
+![Screenshot (342)](https://github.com/user-attachments/assets/945651c9-be6d-49df-9bd7-bdb0f5b6e478)<br>
+![Screenshot (343)](https://github.com/user-attachments/assets/27fa6991-5f77-4719-bdb0-d295917af265)<br>
+![Screenshot (344)](https://github.com/user-attachments/assets/e2946306-d1a4-4779-8173-58943e831f22)<br>
+![Screenshot (345)](https://github.com/user-attachments/assets/c39329c6-eefd-48df-8778-70309bb7ee5d)<br>

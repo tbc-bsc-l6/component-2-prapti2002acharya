@@ -26,7 +26,7 @@
         <div class="row">
             <div class="col-lg-6">
                 <div class="hero-text">
-                    <h1>The Grand Kandyan</h1>
+                    <h1>The YoYo Hotels</h1>
                     <p>Here are the best hotel booking sites, including recommendations for international
                         travel and for finding low-priced hotel rooms.</p>
                     <a href="{{url('about_us')}}" class="primary-btn">Discover Now</a>

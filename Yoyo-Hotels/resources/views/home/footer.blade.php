@@ -1,59 +1,45 @@
-<footer class="footer-section">
+<footer class="footer-section" style="background-color: blue;">
     <div class="container">
         <div class="footer-text">
             <div class="row">
                 <div class="col-lg-4">
                     <div class="ft-about">
                         
-                        <p>Here are the best hotel booking sites, <br /> including recommendations for international
-                            travel and for finding low-priced hotel rooms</p>
                         <div class="fa-social">
-                            <a href="https://www.facebook.com/grandkandyan/"><i class="fa fa-facebook"></i></a>
-                            <a href="https://x.com/thegrandkandyan/"><i class="fa fa-twitter"></i></a>
-                            <a href="https://www.tripadvisor.com/HotelHighlight-g304138-d7322201-Reviews-The_Grand_Kandyan_Hotel-Kandy_Kandy_District_Central_Province.html"><i class="fa fa-tripadvisor"></i></a>
-                            <a href="https://www.instagram.com/the_grand_kandyan/?hl=en"><i class="fa fa-instagram"></i></a>
-                            <a href="#"><i class="fa fa-youtube-play"></i></a>
+                        <div class="col-lg-5" style="display: flex; align-items: left;">
+                            <div class="co-text" style="flex: 1; text-align: center;">
+                                <p style="margin-left: 0; white-space: nowrap; color: white;">
+                                    &copy; {{ date('Y') }} All rights reserved | The YoYo Hotels, Kanyam
+                                </p>
+                            </div>
+                        </div>
+
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-3 offset-lg-1">
-                    <div class="ft-contact">
-                        <h6>Contact Us</h6>
-                        <ul>
-                            <li>(+94) 081 2030400-5</li>
-                            <li>info@grandkandyan.com</li>
-                            <li>89/10, Lady Gordon's Drive, Kandy, Sri Lanka</li>
+                    <div class="ft-contact" style="color : white;">
+                        <h6 style="color : white;">Contact Us</h6>
+                        <ul style="color : white;">
+                            <li style="color : white;">+977 9824305625</li>
+                            <li style="color : white;">info@yoyohotels.com</li>
+                            <li style="color : white;">Kanyam Illam, Illam , Koshi Nepals</li>
                         </ul>
                     </div>
                 </div>
                 <div class="col-lg-3 offset-lg-1">
                     <div class="ft-newslatter">
-                        <h6>New latest</h6>
-                        <p>Get the latest updates and offers.</p>
+                        <h6 style="color : white;">New latest</h6>
+                        <p style="color : white;">Get the latest updates and offers.</p>
                         <form action="#" class="fn-form">
                             <input type="text" placeholder="Email">
-                            <button type="submit"><i class="fa fa-send"></i></button>
+                            <button type="submit" style="background-color: orange;"><i class="fa fa-send"></i></button>
                         </form>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <div class="copyright-option">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-7">
-                    <ul>
-                        <li><a href="#">Contact</a></li>
-                        <li><a href="#">Terms of use</a></li>
-                        <li><a href="#">Privacy</a></li>
-                        
-                    </ul>
-                </div>
-                <div class="col-lg-5">
-                    <div class="co-text"><p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | The Grand Kandyan </p></div>
-                </div>
             </div>
         </div>
     </div>

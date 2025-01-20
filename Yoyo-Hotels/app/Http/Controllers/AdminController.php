@@ -303,5 +303,21 @@ public function home()
         $data = reviews::find($id);
         $data->delete();
         return redirect()->back();
-    }        
+    }
+
+    
+      
+
+    
+
+     
+
+     
+      
+
+
+       
+
+  
+        
 }

@@ -16,7 +16,7 @@
         <i class="icon_search"></i>
     </div>
     
-    <nav class="mainmenu mobile-menu">
+    <nav class="mainmenu mobile-menu" style="background-color: #6e83fa;">
         <ul>
             <li class="active"><a href="{{url('index')}}">Home</a></li>
             <li><a href="{{url('rooms')}}">Rooms</a></li>
@@ -28,14 +28,8 @@
         </ul>
     </nav>
     <div id="mobile-menu-wrap"></div>
-    <div class="top-social">
-        <a href="#"><i class="fa fa-facebook"></i></a>
-        <a href="#"><i class="fa fa-twitter"></i></a>
-        <a href="#"><i class="fa fa-tripadvisor"></i></a>
-        <a href="#"><i class="fa fa-instagram"></i></a>
-    </div>
     <ul class="top-widget">
-        <li><i class="fa fa-phone"></i> (12) 345 67890</li>
-        <li><i class="fa fa-envelope"></i> info.colorlib@gmail.com</li>
+        <li><i class="fa fa-phone"></i>+977 9824305625</li>
+        <li><i class="fa fa-envelope"></i> info.yoyohotels@gmail.com</li>
     </ul>
 </div>

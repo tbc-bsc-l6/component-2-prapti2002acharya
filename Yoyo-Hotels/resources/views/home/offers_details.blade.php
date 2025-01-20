@@ -7,7 +7,7 @@
     <meta name="keywords" content="Sona, unica, creative, html">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>The Grand Kandyan</title>
+    <title>The YoYo Hotels</title>
 
     <!-- Google Font -->
     <link href="https://fonts.googleapis.com/css?family=Lora:400,700&display=swap" rel="stylesheet">
@@ -58,7 +58,7 @@
             <i class="icon_search"></i>
         </div>
         
-        <nav class="mainmenu mobile-menu">
+        <nav class="mainmenu mobile-menu" style="background-color: #6e83fa;">
             <ul>
                 <li class="active"><a href="{{url('index')}}">Home</a></li>
                 <li><a href="{{url('rooms')}}">Rooms</a></li>
@@ -69,39 +69,28 @@
             </ul>
         </nav>
         <div id="mobile-menu-wrap"></div>
-        <div class="top-social">
-            <a href="#"><i class="fa fa-facebook"></i></a>
-            <a href="#"><i class="fa fa-twitter"></i></a>
-            <a href="#"><i class="fa fa-tripadvisor"></i></a>
-            <a href="#"><i class="fa fa-instagram"></i></a>
-        </div>
         <ul class="top-widget">
-            <li><i class="fa fa-phone"></i> (12) 345 67890</li>
-            <li><i class="fa fa-envelope"></i> info.colorlib@gmail.com</li>
+            <li><i class="fa fa-phone"></i>+977 9824305625</li>
+            <li><i class="fa fa-envelope"></i> info.yoyohotels@gmail.com</li>
         </ul>
     </div>
     <!-- Offcanvas Menu Section End -->
 
     <!-- Header Section Begin -->
-    <header class="header-section header-normal">
+    <header class="header-section header-normal" style="background-color: #6e83fa;">
         <div class="top-nav">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6">
                         <ul class="tn-left">
-                            <li><i class="fa fa-phone"></i> (+94) 723796453</li>
-                            <li><i class="fa fa-envelope"></i>thegrandkandiyan@gmail.com</li>
+                            <li><i class="fa fa-phone"></i>+977 9824305625</li>
+                            <li><i class="fa fa-envelope"></i>theyoyohotels@gmail.com</li>
                         </ul>
                     </div>
                     <div class="col-lg-6">
                         <div class="tn-right">
-                            <div class="top-social">
-                                <a href="#"><i class="fa fa-facebook"></i></a>
-                                <a href="#"><i class="fa fa-twitter"></i></a>
-                                <a href="#"><i class="fa fa-tripadvisor"></i></a>
-                                <a href="#"><i class="fa fa-instagram"></i></a>
-                            </div>
-                            <a href="#" class="bk-btn">Booking Now</a>
+            
+                            <a href="#" class="bk-btn" style="background-color: blue;">Booking Now</a>
                           
                         </div>
                     </div>
@@ -114,7 +103,7 @@
                     
                     <div class="col-lg-10">
                         <div class="nav-menu">
-                            <nav class="mainmenu">
+                            <nav class="mainmenu" style="background-color: #6e83fa;">
                                 <ul>
                                     <li><a href="{{url('index')}}">Home</a></li>
                                     <li class="active"><a href="{{url('rooms')}}">Rooms</a></li>

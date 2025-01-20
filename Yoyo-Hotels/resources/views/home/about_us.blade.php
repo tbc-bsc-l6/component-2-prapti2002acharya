@@ -7,7 +7,7 @@
     <meta name="keywords" content="Sona, unica, creative, html">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>The Grand Kandyan</title>
+    <title>YoYo Hotels</title>
 
     <!-- Google Font -->
     <link href="https://fonts.googleapis.com/css?family=Lora:400,700&display=swap" rel="stylesheet">
@@ -59,7 +59,7 @@
         <div class="search-icon search-switch">
             <i class="icon_search"></i>
         </div>
-        <div class="header-configure-area">
+        <div class="header-configure-area" style="background-color: #6e83fa;">
             <div class="language-option">
                 <img src="img/flag.jpg" alt="">
                 <span>EN <i class="fa fa-angle-down"></i></span>
@@ -72,7 +72,7 @@
             </div>
             <a href="#" class="bk-btn">Booking Now</a>
         </div>
-        <nav class="mainmenu mobile-menu">
+        <nav class="mainmenu mobile-menu" style="background-color: #6e83fa;">
             <ul>
                 <li class="active"><a href="./index.html">Home</a></li>
                 <li><a href="./rooms.html">Rooms</a></li>
@@ -83,38 +83,29 @@
         </nav>
         <div id="mobile-menu-wrap"></div>
         <div class="top-social">
-            <a href="#"><i class="fa fa-facebook"></i></a>
-            <a href="#"><i class="fa fa-twitter"></i></a>
-            <a href="#"><i class="fa fa-tripadvisor"></i></a>
-            <a href="#"><i class="fa fa-instagram"></i></a>
+           
         </div>
         <ul class="top-widget">
-            <li><i class="fa fa-phone"></i> (12) 345 67890</li>
-            <li><i class="fa fa-envelope"></i> info.colorlib@gmail.com</li>
+            <li><i class="fa fa-phone"></i> +977 9824305625</li>
+            <li><i class="fa fa-envelope"></i> info.yoyohotels@gmail.com</li>
         </ul>
     </div>
     <!-- Offcanvas Menu Section End -->
 
     <!-- Header Section Begin -->
-    <header class="header-section header-normal">
+    <header class="header-section header-normal" style="background-color: #6e83fa;">
         <div class="top-nav">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6">
                         <ul class="tn-left">
-                            <li><i class="fa fa-phone"></i> (+94) 723796453</li>
-                            <li><i class="fa fa-envelope"></i> thegrandkandiyan@gmail.com</li>
+                            <li><i class="fa fa-phone"></i> +977 9824305625</li>
+                            <li><i class="fa fa-envelope"></i> theyoyohotels@gmail.com</li>
                         </ul>
                     </div>
                     <div class="col-lg-6">
                         <div class="tn-right">
-                            <div class="top-social">
-                                <a href="#"><i class="fa fa-facebook"></i></a>
-                                <a href="#"><i class="fa fa-twitter"></i></a>
-                                <a href="#"><i class="fa fa-tripadvisor"></i></a>
-                                <a href="#"><i class="fa fa-instagram"></i></a>
-                            </div>
-                            <a href="#" class="bk-btn">Booking Now</a>
+                            <a href="#" class="bk-btn" style="background-color: blue;">Booking Now</a>
                             
                         </div>
                     </div>
@@ -178,18 +169,18 @@
                 <div class="row">
                     <div class="col-lg-6">
                         <div class="ap-title">
-                            <h2>Welcome To The Grand Kandyan.</h2>
-                            <p>The Grand Kandyan, is a 5-star property, tucked away in Kandy only 0.7 mi from Sri Dalada Maligawa. It welcomes guests with a spacious outdoor pool and complimentary WiFi access. Rooms feature large windows and fully carpeted flooring.
+                            <h2>Welcome To The YoYo Hotels.</h2>
+                            <p>The YoYo Hotel, is a 3-star property, tucked away in illam only 24 km from Biratamode. It welcomes guests with a spacious outdoor pool and complimentary WiFi access. Rooms feature large windows and fully carpeted flooring.
                             </p>
                         </div>
                     </div>
                     <div class="col-lg-5 offset-lg-1">
                         <ul class="ap-services">
-                            <li><i class="icon_check"></i> 20% Off On Accommodation.</li>
+                            <li><i class="icon_check"></i> 5% Off On Accommodation.</li>
                             <li><i class="icon_check"></i> Complimentary Daily Breakfast</li>
                             <li><i class="icon_check"></i> 3 Pcs Laundry Per Day</li>
                             <li><i class="icon_check"></i> Free Wifi.</li>
-                            <li><i class="icon_check"></i> Discount 20% On F&B</li>
+                            <li><i class="icon_check"></i> Discount 10% On F&B</li>
                         </ul>
                     </div>
                 </div>

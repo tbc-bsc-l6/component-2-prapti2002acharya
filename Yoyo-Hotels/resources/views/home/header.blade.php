@@ -26,26 +26,22 @@
 </style>
 
 
-<header class="header-section">
+<header class="header-section" style="background-color: #6e83fa;">
     
     <div class="top-nav">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
                     <ul class="tn-left">
-                        <li><i class="fa fa-phone"></i> (+94) 723796453</li>
-                        <li><i class="fa fa-envelope"></i>thegrandkandiyan@gmail.com</li>
+                        <li><i class="fa fa-phone"></i> +977 9824305625</li>
+                        <li><i class="fa fa-envelope"></i>thegyoyohotels@gmail.com</li>
                     </ul>
                 </div>
                 <div class="col-lg-6">
                     <div class="tn-right">
                         <div class="top-social">
-                            <a href="https://www.facebook.com/grandkandyan/"><i class="fa fa-facebook"></i></a>
-                            <a href="https://x.com/thegrandkandyan/"><i class="fa fa-twitter"></i></a>
-                            <a href="https://www.tripadvisor.com/HotelHighlight-g304138-d7322201-Reviews-The_Grand_Kandyan_Hotel-Kandy_Kandy_District_Central_Province.html"><i class="fa fa-tripadvisor"></i></a>
-                            <a href="https://www.instagram.com/the_grand_kandyan/?hl=en"><i class="fa fa-instagram"></i></a>
                         </div>
-                        <a href="{{url('rooms')}}" class="bk-btn">Booking Now</a>
+                        <a href="{{url('rooms')}}" class="bk-btn" style="background-color: blue;">Booking Now</a>
                         
                     </div>
                 </div>
@@ -64,7 +60,7 @@
                 </div>
                 
                 <div class="col-lg-10">
-                    <div class="nav-menu">
+                    <div class="nav-menu" style="background-color: #6e83fa;">
                         <nav class="mainmenu">
                             <ul>
                                 <li class="active"><a href="{{url('index')}}">Home</a></li>
